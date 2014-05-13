@@ -12,7 +12,7 @@ Youtube Preview :
 
 Screenshot :
 
-![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
+![Alt Text](dl.dropboxusercontent.com/u/39420840/Github/Images/MotorMassacrePreview.jpg )
 
 So far these are implemented.
 
