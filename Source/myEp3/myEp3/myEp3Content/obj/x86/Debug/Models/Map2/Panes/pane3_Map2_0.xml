@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Cube</Name>
+    <Identity>
+      <SourceFilename>D:\Projects\Motor Massacre\Current Build\myEp3\myEp3\myEp3Content\Models\Map2\Panes\pane3_Map2.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Positions>-0.062912 -13.6287909 30.2567215 -0.062912 13.6287136 30.2567558 -0.062951 13.6287889 -30.2567253 -0.062951 -13.6287184 -30.2567444 0.062951 -13.6287842 30.2567368 0.062951 13.6287222 30.2567368 0.062912 13.628787 -30.2567329 0.062912 -13.6287136 -30.2567539</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 9 8 0 0 10 9 6 12 11 11 13 6 16 15 14 14 3 16 18 17 4 4 19 18</Indices>
+        <Vertices>
+          <PositionIndices>0 1 2 3 4 7 6 5 4 5 1 1 5 2 2 6 7 0 3 7</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-0.577318668 -0.5773797 0.577318668 -0.5773492 0.577288151 0.5773797 -0.5773797 0.577318668 -0.577288151 -0.5773492 -0.5773492 -0.577318668 0.5773492 -0.577288151 0.5773492 0.577318668 -0.577318668 -0.5773492 0.577288151 0.5773492 -0.5773797 0.577318668 0.5773797 0.577318668 0.5773492 -0.577288151 0.5773492 0.577318668 0.5773797 0.577318668 -0.5773492 0.577288151 0.5773797 -0.5773492 0.577288151 0.5773797 0.577318668 0.5773797 0.577318668 -0.5773797 0.577318668 -0.577288151 -0.5773797 0.577318668 -0.577288151 0.577288151 0.5773492 -0.5773797 0.577318668 -0.577318668 -0.5773492 -0.577318668 -0.5773797 0.577318668 -0.5773492 -0.5773492 -0.577318668 0.577318668 -0.577318668 -0.5773492</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 1 1 1 0 0 0 0 1 1 1 0 0 0 1 1 1 1 0 1 1 1 0 0 0</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Material__skyline_big_jpg</Name>
+      <Identity>
+        <SourceFilename>D:\Projects\Motor Massacre\Current Build\myEp3\myEp3\myEp3Content\Models\Map2\Panes\pane3_Map2.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\..\Models\Map2\Panes\skyline_big.jpg</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

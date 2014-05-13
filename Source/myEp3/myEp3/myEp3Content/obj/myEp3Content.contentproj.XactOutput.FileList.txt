@@ -1,0 +1,3 @@
+Content\Audio\Test1\TestAudio.xgs
+Content\Audio\Test1\Wave Bank.xwb
+Content\Audio\Test1\Sound Bank.xsb

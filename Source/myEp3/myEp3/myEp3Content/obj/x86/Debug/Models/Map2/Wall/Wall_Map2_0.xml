@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Cube</Name>
+    <Identity>
+      <SourceFilename>D:\Projects\Motor Massacre\Current Build\myEp3\myEp3\myEp3Content\Models\Map2\Wall\Wall_Map2.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Positions>6.43053 0.041018 -0.094381 -6.430519 0.040993 -0.094381 -6.43053 6.215691 -0.094381 6.430521 6.215714 -0.094381 6.430527 0.041016 0.094381 -6.430522 0.040995 0.094381 -6.430528 6.215692 0.094381 6.430519 6.215715 0.094381</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 5 4 0 0 1 5 6 5 1 1 2 6 7 6 2 2 3 7 3 0 4 4 7 3</Indices>
+        <Vertices>
+          <PositionIndices>0 1 2 3 4 5 6 7</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.5773492 -0.577318668 -0.577318668 -0.577318668 -0.5773492 -0.5773492 -0.5773492 0.577318668 -0.5773492 0.5773492 0.577318668 -0.577318668 0.577318668 -0.5773492 0.5773492 -0.5773492 -0.577318668 0.5773492 -0.5773492 0.5773492 0.577318668 0.577318668 0.5773492 0.5773492</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+      <Batch>
+        <Material>#Resource2</Material>
+        <Indices>2 1 0 0 3 2</Indices>
+        <Vertices>
+          <PositionIndices>4 7 6 5</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.577318668 -0.5773492 0.5773492 0.577318668 0.5773492 0.5773492 -0.5773492 0.5773492 0.577318668 -0.5773492 -0.577318668 0.5773492</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.002145 0.009334 0.992206 0.008831 0.991194 0.991713 0.002922 0.991241</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Material_001</Name>
+      <Identity>
+        <SourceFilename>D:\Projects\Motor Massacre\Current Build\myEp3\myEp3\myEp3Content\Models\Map2\Wall\Wall_Map2.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>Material_001__url__2__jpg</Name>
+      <Identity>
+        <SourceFilename>D:\Projects\Motor Massacre\Current Build\myEp3\myEp3\myEp3Content\Models\Map2\Wall\Wall_Map2.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.640000045 0.640000045 0.640000045</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\..\Models\Map2\Wall\url (2).jpg</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

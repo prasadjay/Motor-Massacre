@@ -1,0 +1,9 @@
+c:\users\prasad\documents\visual studio 2010\Projects\myEp3\myEp3\myEp3Content\obj\x86\Debug\myEp3Content.contentprojResolveAssemblyReference.cache
+C:\Users\Aztec\Desktop\gme\myEp3\myEp3\myEp3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PRASAD\Downloads\myEp3\myEp3\myEp3Content\obj\x86\Debug\myEp3Content.contentprojResolveAssemblyReference.cache
+D:\Game Files\Current Build\myEp3\myEp3\myEp3Content\obj\x86\Debug\myEp3Content.contentprojResolveAssemblyReference.cache
+D:\Game Files\Current Build\myEp3\myEp3\myEp3Content\obj\x86\Debug\Audio\Test1\TestAudio.xml
+C:\Users\PRASAD\Desktop\lastBuild\myEp3\myEp3\myEp3Content\obj\x86\Debug\myEp3Content.contentprojResolveAssemblyReference.cache
+C:\Users\PRASAD\Desktop\lastBuild\myEp3\myEp3\myEp3Content\obj\x86\Debug\Audio\Test1\TestAudio.xml
+D:\Projects\Motor Massacre\Current Build\myEp3\myEp3\myEp3Content\obj\x86\Debug\myEp3Content.contentprojResolveAssemblyReference.cache
+D:\Projects\Motor Massacre\Current Build\myEp3\myEp3\myEp3Content\obj\x86\Debug\Audio\Test1\TestAudio.xml
