@@ -9,7 +9,7 @@ Youtube Preview :
 
 Screenshot :
 
-![Alt Text](dl.dropboxusercontent.com/u/39420840/Github/Images/MotorMassacrePreview.jpg)
+![Alt Text](http://dl.dropboxusercontent.com/u/39420840/Github/Images/MotorMassacrePreview.jpg)
 
 So far these are implemented.
 
