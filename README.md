@@ -3,16 +3,13 @@ Motor-Massacre
 
 Motor Massacre is a 3D game project developed for Microsoft Imagine Cup 2014 competition using XNA and Lidgren.
 
-
-[[ https://dl.dropboxusercontent.com/u/39420840/Github/Images/MotorMassacrePreview.jpg | height = 100px ]]
-
 Youtube Preview :
 
 [![Alt YouTube Preview](https://i1.ytimg.com/vi/SC0WQ9LVjhc/2.jpg?time=1399981042212)](https://www.youtube.com/watch?v=SC0WQ9LVjhc)
 
 Screenshot :
 
-![Alt Text](dl.dropboxusercontent.com/u/39420840/Github/Images/MotorMassacrePreview.jpg )
+![Alt Text](dl.dropboxusercontent.com/u/39420840/Github/Images/MotorMassacrePreview.jpg)
 
 So far these are implemented.
 
